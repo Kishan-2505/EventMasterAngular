@@ -7,6 +7,7 @@ and AJAX to showcase event, artist and venue details.
 scripting, and deployed the application on the Google Cloud platform for optimal performance and accessibility.
 
 Please find the demo video for the project [here](https://drive.google.com/file/d/10sAQWYjTvnbFYkPwOZ__SQ0S6WfSk0MI/view?usp=share_link)
+Additionally, you can find the web application hosted [here](https://event-master-angular.uw.r.appspot.com/search-component)
 
 I'm sorry to inform you that due to university rules and regulations, the code in this repository cannot be shared publicly. However, if you're interested in viewing the code, please feel free to contact me at <a href="mailto:kishanrathodgdd@gmail.com?">kishanrathodgdd@gmail.com</a> and I will grant you access to my private repository where the code is located.
 
